@@ -1,0 +1,19 @@
+== Navigating This Book
+
+This book is primarily organized in a topic-based format. As such, you may want
+to jump into the specific topics that interest you the most. While I have done
+my best to reference terms and ideas in the earlier chapters, I'd like to think
+that even people who consider themselves fairly experienced will find something
+of interest in all chapters here.
+
+I would certainly suggest that you take a look at Chapter 1, which touches on
+the breadth of the topic as well as providing some framing for how I go about
+things in case you want to dive deeper into some of the later topics.
+
+For people new to the subject, I've structured the chapters in a way that I hope
+will make sense to read from beginning to end.
+
+Here is an overview of what we'll cover:
+
+_Chapter 1, Chapter Title_
+    Write a sentence that describes the learning objective here.

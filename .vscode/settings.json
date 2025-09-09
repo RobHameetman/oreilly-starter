@@ -1,0 +1,10 @@
+{
+		"asciidoc.pdf.engine": "asciidoctor-pdf",
+    "asciidoc.preview.useEditorStyle": false,
+    "asciidoc.preview.style": "publish/themes/",
+		"editor.rulers": [80],
+		"files.autoSave": "onFocusChange",
+		"editor.insertSpaces": false,
+		"editor.tabSize": 2,
+		"files.eol": "\n"
+}

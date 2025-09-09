@@ -1,0 +1,15 @@
+== (Optional) Reading
+
+[comment]
+--
+This is a good section for intermediate+ books to point readers who are just
+starting out to resources where they can get a deeper understanding of the
+basics.
+--
+
+Should you wish to know more about the language, I am happy to recommend the
+following titles:
+
+* _Title of Book 1_ by Author
+* _Title of Book 2_ by Author
+* _Title of Book 3_ by Author

@@ -1,0 +1,36 @@
+= Chapter Title
+:doctype: chapter
+:chapter-id: chapter-title
+:status: draft // draft, review, final
+:last-updated: {localdate}
+:imagesdir: {docdir}/assets
+:stylesdir: {docdir}/assets
+:topic: // Used in _conclusion.adoc
+
+// Learning objectives for this chapter
+:_learning-objectives_: [
+* First learning objective
+* Second learning objective
+* Third learning objective
+]
+
+// Prerequisites for this chapter
+:_prerequisites_: [
+* Basic understanding of X
+* Familiarity with Y
+* Completion of Chapter Z
+]
+
+include::{docdir}/section-1.adoc[]
+include::{docdir}/section-2.adoc[]
+include::{docdir}/section-3.adoc[]
+include::{docdir}/section-4.adoc[]
+include::{docdir}/summary.adoc[]
+
+[comment]
+--
+Word count: {wordcount}
+Technical review completed: [ ]
+Copyedit completed: [ ]
+Final proof: [ ]
+--

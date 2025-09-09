@@ -1,0 +1,10 @@
+[preface]
+= Preface
+
+include::{docdir}/preface/foreward.adoc[]
+include::{docdir}/preface/navigating-this-book.adoc[]
+include::{docdir}/preface/using-code-examples.adoc[]
+include::{docdir}/preface/safari-books-online.adoc[]
+include::{docdir}/preface/how-to-contact-us.adoc[]
+include::{docdir}/preface/acknowledgements.adoc[]
+include::{docdir}/preface/reading.adoc[]

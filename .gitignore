@@ -1,0 +1,23 @@
+# Build
+publish/*.pdf
+publish/*.epub
+publish/*.mobi
+publish/*.html
+publish/*.pdfmark
+
+# Editor
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+*.code-workspace
+
+# Logs
+logs
+*.log
+
+# Misc
+.cache/
+.DS_Store

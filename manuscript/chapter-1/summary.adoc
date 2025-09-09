@@ -1,0 +1,115 @@
+[comment]
+--
+These sections are optional. In their proposal form, O'Reilly notes that "each
+chapter will end with 3-5 questions, and the book will conclude with a
+20-question Final Quiz unless otherwise agreed with your acquisitions editor."
+
+I checked 15 O'Reilly books that I own and literally none of them have questions
+at the end of each chapter or a final quiz. But if you need it you can add that
+in here as well.
+
+A good idea is to include a brief interview with an expert at the end of each
+chapter if possible.
+--
+
+== (Optional) Summary
+
+Summarize the key takeaways from this chapter.
+
+.Bulleted summary
+* First key point
+* Second key point
+* Third key point
+
+== (Optional) What's Next
+
+2–3 sentences tying in the next chapter for better transition.
+
+== (Optional) See Also
+
+* Link to relevant documentation
+* Related reading material
+* Supplementary videos or tutorials
+
+== (Optional) Expert Insight: [Expert], [Title]
+
+// Optional: Include expert photo with proper permissions
+// image::expert-photo.jpg[Expert Name, width=200, align=center]
+
+[quote, [Expert], [Company/Organization]]
+____
+[Brief 1-2 sentence introduction of the expert and why their perspective matters for this chapter's topic]
+____
+
+.Professional Background
+* Current role and organization: 
+* Previous relevant experience: 
+* Areas of expertise: 
+
+=== Discussion Questions
+
+// Core concept questions
+**From your experience, what's the most common misunderstanding about {topic} that you encounter?**
+
+**How has your thinking about {topic} evolved over the past few years?**
+
+**What fundamental aspect of {topic} do professionals often overlook?**
+
+// Practical application questions
+**What's the most impactful real-world application of {topic} you've witnessed?**
+
+**Could you share a story where {topic} made a critical difference in a project's success or failure?**
+
+**What practical advice would you give to someone implementing {topic} for the first time?**
+
+// Challenges and solutions questions
+**What are the most significant challenges teams face when working with {topic}?**
+
+**How do you recommend overcoming these challenges?**
+
+**Are there any particular tools or approaches that you've found especially effective?**
+
+// Future outlook questions
+**Where do you see {topic} heading in the next 2-3 years?**
+
+**What emerging trends should our readers be watching in this space?**
+
+**What skills related to {topic} will become increasingly valuable?**
+
+// Career and development questions
+**What resources (books, courses, communities) do you recommend for deepening understanding of {topic}?**
+
+**For someone looking to specialize in this area, what career paths have you seen be most successful?**
+
+**What mistakes have you made with {topic} that others can learn from?**
+
+// Industry perspective questions
+**How is {topic} transforming your industry specifically?**
+
+**What questions should organizations be asking about {topic} that they typically don't?**
+
+**Are there any industry-specific considerations for {topic} that readers should know?**
+
+=== Key Takeaways
+
+[Expert] emphasized several important points:
+* [First key insight or piece of advice]
+* [Second key insight or piece of advice]
+* [Third key insight or piece of advice]
+
+=== Follow-up Resources
+
+[Expert] recommends these additional resources:
+* Book: _[Book Title]_ by [Author]
+* Article: "[Article Title]" at [Publication]
+* Tool: [Tool Name] for [specific use case]
+* Community: [Community name or forum] for discussion
+
+// Connection information (optional)
+// Readers can find [Expert] at:
+// * Website: https://
+// * Twitter: @
+// * LinkedIn: https://linkedin.com/in/
+
+// Production note: Remember to secure proper permissions and review rights from
+// the expert before publication.

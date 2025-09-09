@@ -1,0 +1,45 @@
+[comment]
+--
+Most prefaces are between 2–3 paragraphs and 2–3 pages. Some things to keep in
+mind for this part:
+- Lead with “why”: the problem space and your motivation to write.
+- Name the audience and prerequisites; state what readers should already know.
+- Promise outcomes: the skills, mental models, and artifacts readers will gain.
+- Map the journey: brief chapter overview and suggested reading paths.
+- Set boundaries: what’s not covered and any assumptions or trade-offs.
+- Keep it concise, friendly, and skimmable; avoid marketing fluff.
+
+Sections _Who Should Read This Book_ and _Why I Wrote This Book_ can also help
+break this down to make it more digestible.
+
+Beginner-level books can use this part to help introduce the core focus (e.g.
+"Why HTML5?", "What is a Design System?", etc.) This is especially desirable if
+your Chapter 1 needs to focus on introducing syntax or core concepts.
+
+Intermediate and advanced books should focus more on why you're writing this
+book and what impact you hope to make for your readers.
+--
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur.
+
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur
+adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+ut aliquip ex ea commodo consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+== (Optional) Who Should Read This Book
+
+== (Optional) Why I Wrote This Book

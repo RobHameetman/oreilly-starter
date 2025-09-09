@@ -1,0 +1,47 @@
+== Section Title
+
+Start with a conceptual overview before diving into technical details.
+
+=== Subsection Heading
+
+Use subsections to break down complex topics into digestible pieces.
+
+[CAUTION]
+====
+Be careful with terminology consistency. 
+O'Reilly editors will check for consistent use of terms throughout the book.
+====
+
+.List with explanation
+- Item one::
+  Explanation of item one that might span multiple lines
+- Item two::
+  Explanation of item two
+
+=== Another Subsection
+
+Include practical examples and code samples where appropriate:
+
+.Simple code example
+[source,python]
+----
+def example_function(param):
+    """This is a docstring."""
+    return param * 2
+----
+
+.For more complex examples, use a labeled listing
+[[complex-example]]
+.Complex code example with caption
+[source,javascript]
+----
+// This is a more complex example
+function complexExample(config) {
+    const { param1, param2 } = config;
+    
+    return {
+        result: param1 + param2,
+        timestamp: Date.now()
+    };
+}
+----

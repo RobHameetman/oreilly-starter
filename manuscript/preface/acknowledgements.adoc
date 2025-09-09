@@ -1,0 +1,16 @@
+== Acknowledgements
+
+[comment]
+--
+If this is a first edition then you can keep it simple. For multiple editions,
+consider breaking this part up into subsections.
+--
+
+== Credits
+
+[comment]
+--
+Use this section to give credit where credit is due, for instance if you are
+inspired by someone's article but not necessarily quoting or using code from it
+directly.
+--
