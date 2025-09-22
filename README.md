@@ -1,5 +1,7 @@
 # O'Reilly Author Starter Kit
 
+[![book-generate-pdf](https://github.com/robhameetman/oreilly-starter/actions/workflows/publish.yaml/badge.svg?branch=main)](https://github.com/robhameetman/oreilly-starter/actions/workflows/publish.yaml)
+
 > The ultimate toolkit for O'Reilly authors - because writing technical books
 > shouldn't be harder than the technology itself.
 
@@ -151,5 +153,3 @@ Rob Hameetman <engineering@robhameetman.com>
 
 This is a community resource—share your hard-earned knowledge! Please read our
 contribution guidelines before submitting improvements.
-
-[![book-generate-pdf](https://github.com/lirantal/asciidoc-book-starter/actions/workflows/book-generate-pdf.yaml/badge.svg?branch=main)](https://github.com/lirantal/asciidoc-book-starter/actions/workflows/book-generate-pdf.yaml)
